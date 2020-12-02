@@ -72,11 +72,13 @@ Worker nodes host the app containers.
 
 ### To Learn more
 
-- https://confluence.umd.edu/display/LIB/Kubernetes+Notes
-- https://confluence.umd.edu/display/LIB/K8s+Cluster+Architecture
+#### Confluence links:
+
+- [Kubernetes Notes](https://confluence.umd.edu/display/LIB/Kubernetes+Notes)
+- [K8s Cluster Architecture](https://confluence.umd.edu/display/LIB/K8s+Cluster+Architecture)
 
 --
 
-#  Questions
+# Questions?
 
 --
