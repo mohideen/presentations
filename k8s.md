@@ -59,7 +59,7 @@ Worker nodes host the app containers.
 - Kubernetes provided services - reverse proxy, certificate management.
 - Better monitoring support - we can see resource consuption of apps over time.
 - Consistent environment for the apps - thanks to Docker.
-- Easier migration - OS upgrades are less burdensome, cloud hosted K8s platforms.
+- Less burdensome migration - OS upgrades, cloud K8s platforms.
 
 --
 
