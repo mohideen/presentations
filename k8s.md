@@ -44,7 +44,7 @@ It facilitates:
 
 ### How does it work?
 
-K8s is a distributed platform comprising of controller and worker nodes (Linux machines).
+K8s is a distributed platform comprised of controller and worker nodes (Linux machines).
 
 Controller nodes oversee the worker nodes, and they serve as a gateway to interact with the cluster.
 
@@ -66,9 +66,50 @@ Worker nodes host the app containers.
 ### Downsides
 
 - Initial learning curve.
-- Complex environment - comprises of multiple components.
+- Complex environment - comprised of multiple components.
 
 --
+
+### Running in Production
+
+* ArchivesSpace
+* UMD PACT
+* Solr Databases
+* In Transition
+* Caia / Aleph integration
+
+--
+
+### Migrations In Progress
+
+* Hippo CMS and Websites
+* MD-SOAR
+* Libi Staff Blog
+* Fedora
+* REDCap
+* Workstation Tracking
+
+--
+
+### Migrations In Progress (Continued)
+* Data Warehouse databases
+* USMAI Confluence database
+* Jasperserver Reports database
+* AutoNumber
+* Student Applications database
+* Fedora 2 databases
+
+--
+
+### Upcoming Migrations
+
+* IIIF Services
+* DRUM
+* Archelon
+* Reciprocal Borrowing
+
+--
+
 
 ### To Learn more
 
@@ -80,5 +121,3 @@ Worker nodes host the app containers.
 --
 
 # Questions?
-
---
